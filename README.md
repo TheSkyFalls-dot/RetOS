@@ -1,7 +1,7 @@
 # RetOS
 
 RetOS is a hobby x86 operating system built **from scratch** using C and x86 Assembly.
-No libc. No hand-holding. Just vibes, GRUB, and raw VGA memory.
+No libc. No hand-holding. GRUB, and raw VGA memory.
 
 > Built for learning OS development the hard (and fun) way.
 
