@@ -1,5 +1,7 @@
 # RetOS
 
+# IMP NOTICE: THE MAKEFILE IS NOT FUNCTIONAL AND IS STILL IN DEVLOPEMENT!
+
 RetOS is a hobby x86 operating system built **from scratch** using C and x86 Assembly.
 No libc. No hand-holding. GRUB, and raw VGA memory.
 
